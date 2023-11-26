@@ -601,6 +601,7 @@ input, select, textarea {
 /* Icon */
 
 	.icon {
+		margin-bottom: 9px;
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
@@ -1666,5 +1667,5 @@ input, select, textarea {
 
 		.contactLogo {
 			float: right;
-			margin-right: 35px;
+			margin-right: 23px;
 		}
