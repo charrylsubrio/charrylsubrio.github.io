@@ -1661,12 +1661,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		.cs {
-			float: left;
-			padding-right: 15px;
-		}
-
-		.contactLogo {
-			float: right;
-			margin-right: 23px;
-		}
+.contactLogo {
+	float: left;
+	padding-right: 15px;
+}
