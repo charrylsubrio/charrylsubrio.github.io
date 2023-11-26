@@ -2,9 +2,14 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	CHARRYL SUBRIO
+
+	charrylsubrio.github.io/
+	github.com/charrylsubrio/
+	linkedin.com/in/charrylsubrio/
+	youtube.com/@charrylsubrio/
+	freecodecamp.org/charrylsubrio/
+	facebook.com/charrylsubrio/
 */
 
 html, body, div, span, applet, object,
@@ -23,11 +28,13 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;
+}
 
 body {
 	line-height: 1;
@@ -1660,6 +1667,17 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+/*
+	CHARRYL SUBRIO
+
+	charrylsubrio.github.io/
+	github.com/charrylsubrio/
+	linkedin.com/in/charrylsubrio/
+	youtube.com/@charrylsubrio/
+	freecodecamp.org/charrylsubrio/
+	facebook.com/charrylsubrio/
+*/		
 
 .contactLogo {
 	float: left;
